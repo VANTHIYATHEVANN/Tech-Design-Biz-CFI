@@ -1,2 +1,2 @@
 # Tech-Design-Biz-CFI
-This repository consists all my project Files for CFSummer school.
+All Files are prepared by myself as part of my summer school experience at CFI (IIT'M).
